@@ -9,15 +9,12 @@
 #header{
     background-color: blue;
     color: white;
-    padding: 1em;
+    padding: .1em;
 }
 
-#header ul{
-
-}
 
 #header li{
-    font-size: 1.5em;
+    font-size: 1.2em;
     display:inline;
     padding: 1em;
 }
@@ -30,33 +27,30 @@
     color:white;
     text-decoration: none;
 }
-
 #footer{    text-align: center;
     padding: .1em;
     position: fixed;
-    bottom: 5%;
-    left: 50%;
-
+    right: 50%;
+    bottom: 2%;
 }
 #contactContent{
     padding: 3em;
     position: fixed;
     left:20%;
-    font-size: 1.3em;
+    font-size: 1.2em;
 }
 #contactAddress ul{
     position: fixed;
     bottom: 15%;
     right:10%;
     list-style: none;
-    font-size: 1.3em;
+    font-size: 1.2em;
 }
 #aboutContent {
     padding: 3em;
     padding-left: 5em;
     padding-right: 5em;
-    font-size: 1.4em;
-    word-spacing: .1em;
+    font-size: 1.2em;
     line-height: 1.6em;
 }
 #mainContent {
